@@ -27,6 +27,7 @@ img {
 #skills {
   display: var(--d-flex);
   align-items: var(--center);
+height:100%;
   /* padding: 5rem 0; */
   /* background-color: thistle; */
 }
